@@ -1,4 +1,5 @@
-<img width="1138" height="873" alt="image" src="https://github.com/user-attachments/assets/bbe3078c-495e-494d-a123-d565ba2b66ee" />
+[![An image of @indirav5's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/indirav5)](https://holopin.io/@indirav5)
+
 
 
 <!--
