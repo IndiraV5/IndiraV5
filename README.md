@@ -1,12 +1,10 @@
 <h1 align="center">Hi✨, I'm Indira Verma</h1>
 
 ### 👨🏻‍💻 About Me
-- 🎓 B.Tech student at KIIT (2nd Year)  
+- 🎓 B.Tech student at KIIT 
 - 💡 Exploring AI/ML, Cloud, and Open Source  
-- 🚀 Currently learning Git, APIs, and Hackathon projects  
-- 🛠️ Building small projects to sharpen my skills  
-- 🌱 Always curious to learn and grow
-- 💬 Feel free to reach out to me
+- 🛠️ Building projects to sharpen my skills  
+-  Feel free to reach out to me
 <h3 align="left">Connect with me:</h3>
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/indira-verma-b978a930b/)
